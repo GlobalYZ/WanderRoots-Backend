@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using WanderRoots_backend.Data;
 using WanderRoots_backend.Models;
+using WanderRoots_backend.Models.Dto;
 
 namespace WanderRoots_backend.Controllers;
 
@@ -26,16 +27,24 @@ public class ReviewController : ControllerBase
     }
 
     // GET: api/review/article/{articleId}/{reviewId}
-    [HttpGet("article/{articleId}/{reviewId}")]
-    public async Task<ActionResult<Review>> GetReviewByArticleAndId(int articleId, int reviewId)
+
+    //make this a post method to get reviews by uuid and article id
+    [HttpPost("article/{articleId}/user")]
+    public async Task<ActionResult<Review>> GetReviewByUuidAndArticle(
+        int articleId,
+        [FromBody] ReviewQueryDto query)
     {
-        var review = await _context.Reviews
-            .FirstOrDefaultAsync(r => r.ArticleId == articleId && r.Id == reviewId);
+        //return reviews not one review
+        var reviews = await _context.Reviews
+            .Where(r =>
+                r.ArticleId == articleId &&
+                r.Uuid == query.Uuid)
+            .ToListAsync();
 
-        if (review == null)
-            return NotFound();
+        if (reviews.Count == 0)
+            return NotFound($"No review found for article {articleId} and user {query.Uuid}");
 
-        return review;
+        return Ok(reviews);
     }
 
     // POST: api/review
@@ -45,8 +54,7 @@ public class ReviewController : ControllerBase
         _context.Reviews.Add(review);
         await _context.SaveChangesAsync();
 
-        return CreatedAtAction(nameof(GetReviewByArticleAndId),
-            new { articleId = review.ArticleId, reviewId = review.Id }, review);
+        return Ok(review);
     }
 
     // PUT: api/review/{id}

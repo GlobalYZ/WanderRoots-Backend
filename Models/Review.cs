@@ -1,10 +1,12 @@
 using System.ComponentModel.DataAnnotations;
 using WanderRoots_backend.Models;
+using System.ComponentModel.DataAnnotations.Schema;
 
 
 public class Review
 {
-    [Key]
+    [Key]  //auto incremented
+    [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
     public int Id { get; set; }
 
     [Required(ErrorMessage = "UUID is required.")]
@@ -21,7 +23,4 @@ public class Review
 
     // Foreign key
     public int ArticleId { get; set; }
-
-    // Navigation property
-    public Article Article { get; set; } = null!;
 }

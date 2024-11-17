@@ -1,0 +1,505 @@
+country,question,answer
+India,Why did the tomato turn red?,Because it saw the salad dressing!
+Italy,What do you call cheese that isn't yours?,"""Nacho"" cheese!"
+Japan,What do you call fake spaghetti?,"An ""impasta""!"
+Mexico,Why did the chili pepper go to the party?,"Because it was ""jalapeño"" business!"
+France,Why did the baguette go to school?,"To get a little ""bread""-ucation!"
+China,Why did the dumpling blush?,Because it saw the soy sauce!
+Greece,What do you call a frozen Greek dessert?,"""Yogur-ice""!"
+Brazil,Why did the orange stop rolling down the hill?,"It ran out of ""juice""!"
+Thailand,What do you call a Thai soup that's having a party?,"""Tom Yum Yay""!"
+Russia,What's a Russian's favorite breakfast?,"""Kremlin""-bowlies!"
+Spain,Why did the olive go to school?,"To get a little ""olive""-cation!"
+China,What do you call a Chinese noodle that can play music?,"""Wonton"" tunes!"
+India,Why did the samosa go to the party?,"It wanted to be a ""party"" in the mouth!"
+Mexico,Why did the taco go to school?,"To ""shell-ebrate"" Taco Tuesday!"
+Italy,Why was the pasta chef so successful?,"He had a lot of ""spaghetti""-ments!"
+Japan,What did one sushi say to the other?,"""Wasabi"" my friend!"
+Brazil,What do you call a dancing fruit?,"A ""fruit-cus""!"
+India,What do you call an Indian spice that tells jokes?,"""Garam"" masala-comedian!"
+Spain,Why did the tomato turn red?,Because it saw the salad dressing!
+Russia,What do you call cheese that isn't yours?,"""Nacho"" cheese!"
+China,What do you call fake spaghetti?,"An ""impasta""!"
+Mexico,Why did the chili pepper go to the party?,"Because it was ""jalapeño"" business!"
+France,Why did the baguette go to school?,"To get a little ""bread""-ucation!"
+China,Why did the dumpling blush?,Because it saw the soy sauce!
+Greece,What do you call a frozen Greek dessert?,"""Yogur-ice""!"
+Brazil,Why did the orange stop rolling down the hill?,"It ran out of ""juice""!"
+Thailand,What do you call a Thai soup that's having a party?,"""Tom Yum Yay""!"
+Russia,What's a Russian's favorite breakfast?,"""Kremlin""-bowlies!"
+Spain,Why did the olive go to school?,"To get a little ""olive""-cation!"
+China,What do you call a Chinese noodle that can play music?,"""Wonton"" tunes!"
+India,Why did the samosa go to the party?,"It wanted to be a ""party"" in the mouth!"
+Mexico,Why did the taco go to school?,"To ""shell-ebrate"" Taco Tuesday!"
+Italy,Why was the pasta chef so successful?,"He had a lot of ""spaghetti""-ments!"
+Japan,What did one sushi say to the other?,"""Wasabi"" my friend!"
+Brazil,What do you call a dancing fruit?,"A ""fruit-cus""!"
+India,What do you call an Indian spice that tells jokes?,"""Garam"" masala-comedian!"
+India,Why did the tomato turn red?,Because it saw the salad dressing!
+Italy,What do you call cheese that isn't yours?,"""Nacho"" cheese!"
+Japan,What do you call fake spaghetti?,"An ""impasta""!"
+Mexico,Why did the chili pepper go to the party?,"Because it was ""jalapeño"" business!"
+France,Why did the baguette go to school?,"To get a little ""bread""-ucation!"
+China,Why did the dumpling blush?,Because it saw the soy sauce!
+Greece,What do you call a frozen Greek dessert?,"""Yogur-ice""!"
+Brazil,Why did the orange stop rolling down the hill?,"It ran out of ""juice""!"
+Thailand,What do you call a Thai soup that's having a party?,"""Tom Yum Yay""!"
+Russia,What's a Russian's favorite breakfast?,"""Kremlin""-bowlies!"
+Spain,Why did the olive go to school?,"To get a little ""olive""-cation!"
+Germany,What do you call a sausage with no friends?,"""Braut-lonely""!"
+Australia,Why did the kangaroo eat all the vegetables?,"It was a ""veg-a-roo""!"
+Korea,What did the sushi say to the bee?,"""Wasabi""!"
+Turkey,What do you call a clever pepper?,"A ""smarty-pant-s""!"
+Netherlands,Why did the windmill eat at the restaurant?,"For the ""spin""ach!"
+Argentina,What do you call a dancing cow?,"""Salsa""!"
+Sweden,Why did the Swedish meatball start a band?,"It had a ""beet""!"
+Canada,Why did the maple syrup go to the party?,"It was invited to be ""sweet""!"
+Egypt,What do you call a pharaoh's favorite snack?,"""Mummy's"" cookies!"
+India,Why did the tomato turn red?,Because it saw the salad dressing!
+Italy,What do you call cheese that isn't yours?,"""Nacho"" cheese!"
+Japan,What do you call fake spaghetti?,"An ""impasta""!"
+Mexico,Why did the chili pepper go to the party?,"Because it was ""jalapeño"" business!"
+France,Why did the baguette go to school?,"To get a little ""bread""-ucation!"
+China,Why did the dumpling blush?,Because it saw the soy sauce!
+Greece,What do you call a frozen Greek dessert?,"""Yogur-ice""!"
+Brazil,Why did the orange stop rolling down the hill?,"It ran out of ""juice""!"
+Thailand,What do you call a Thai soup that's having a party?,"""Tom Yum Yay""!"
+Russia,What's a Russian's favorite breakfast?,"""Kremlin""-bowlies!"
+Spain,Why did the olive go to school?,"To get a little ""olive""-cation!"
+Germany,What do you call a sausage with no friends?,"""Braut-lonely""!"
+Australia,Why did the kangaroo eat all the vegetables?,"It was a ""veg-a-roo""!"
+Korea,What did the sushi say to the bee?,"""Wasabi""!"
+Turkey,What do you call a clever pepper?,"A ""smarty-pant-s""!"
+Netherlands,Why did the windmill eat at the restaurant?,"For the ""spin""ach!"
+Argentina,What do you call a dancing cow?,"""Salsa""!"
+Sweden,Why did the Swedish meatball start a band?,"It had a ""beet""!"
+Canada,Why did the maple syrup go to the party?,"It was invited to be ""sweet""!"
+Egypt,What do you call a pharaoh's favorite snack?,"""Mummy's"" cookies!"
+International,Why did the donkey go to school?,To improve its 'burro-cy' skills!
+Saudi Arabia,Why did the camel go to the gym?,To work on its 'hump'-day fitness!
+United Arab Emirates,What do you call a desert snake with no manners?,A 'rude'-dolph the Sand Snake!
+Egypt,Why did the cat sit on the computer?,It wanted to keep an eye on the mouse!
+Qatar,What do you call a lazy dromedary?,A 'hump'-back couch potato!
+Kuwait,Why did the owl invite its friends over?,To have a 'hoot'-enanny!
+Oman,What do you call a fish that wears a crown?,King of the 'sea'-crets!
+Bahrain,Why did the camel become a musician?,To play the 'dromedary'!
+Jordan,What did the falcon say to the owl?,Owl always admire your 'wise' wings!
+Lebanon,Why don't flamingos ever tell jokes?,They're afraid of being 'pink'-diculed!
+Iraq,What do you call a donkey that's a great singer?,An 'ear-resistible' vocalist!
+Syria,Why did the scorpion start a rock band?,To be a 'stinger' sensation!
+Palestine,What's a turtle's favorite game?,Hide and 'seek'-turtle!
+Yemen,Why did the camel join the circus?,It wanted to be the 'hump'-back rider!
+Tunisia,What do you call a sheep that knows martial arts?,A 'lamb'-chop black belt!
+Algeria,Why did the chameleon become an actor?,To show off its 'color-changing' skills!
+Morocco,What's a snake's favorite subject?,Hisss-tory!
+Libya,Why did the antelope start a fashion line?,To be a 'trend'-elope!
+Mauritania,What do you call a clever camel?,A 'dromedary' genius!
+Sudan,Why did the lion always get lost?,Because jungle is 'roar'-ing with confusing paths!
+Somalia,What's a shark's favorite game?,Swim and 'tide'-seek!
+Saudi Arabia,Why did the camel cross the road?,To get to the other oasis!
+United Arab Emirates,What do you call a funny falcon?,A 'tweet'-ing comedian!
+Egypt,Why did the mummy cat become a comedian?,To make everyone 'purr'- with laughter!
+Iraq,Why did the sheep go to the soccer game?,To cheer for the 'baa'-sketball team!
+Kuwait,What do you call a wise desert lizard?,A 'sage'-tailed gecko!
+Qatar,Why did the desert fox start a band?,For its 'rock'-ing beats!
+Jordan,What did the falafel say to the chicken?,'Chickpeas' be friends?
+Oman,Why did the dolphin become a doctor?,To help with 'sea'-rious cases!
+Lebanon,What's a cedar tree's favorite animal?,The 'branch'-ly squirrel!
+Bahrain,Why did the camel become an actor?,It had a great 'hump'-bition!
+Syria,What do you call a bee from Syria?,A Damas-bee!
+Palestine,Why did the goat go to school?,To improve its 'baa'-sic knowledge!
+Yemen,What did the coffee say to the goat?,Let's have a 'brew-tiful' day!
+Libya,Why did the camel start a YouTube channel?,For 'dromedairy' vlogging!
+Tunisia,What do you call a clever cat in Tunisia?,A 'meow'-roccan scholar!
+Algeria,Why did the antelope become a singer?,For its 'anteloping' vocals!
+Morocco,What's a Moroccan's favorite insect?,The 'Marrakat'-erpillar!
+Sudan,Why did the crocodile become a comedian?,To deliver 'snap'-tastic jokes!
+Somalia,What do you call a funny pirate parrot?,A 'jokarr'-ot!
+Mauritania,Why did the desert lizard challenge the snake to a race?,It wanted to prove it was 'sand-sational'!
+United States,Why did the tomato turn red?,Because it saw the salad dressing!
+United Kingdom,What do you call cheese that isn't yours?,"""Nacho"" cheese!"
+Japan,What do you call fake spaghetti?,"An ""impasta""!"
+Mexico,Why did the chili pepper go to the party?,"Because it was ""jalapeño"" business!"
+France,Why did the baguette go to school?,"To get a little ""bread""-ucation!"
+China,Why did the dumpling blush?,Because it saw the soy sauce!
+India,What do you call a frozen Indian dessert?,"""Chill-ati""!"
+Australia,Why did the kangaroo eat all the vegetables?,"It was a ""veg-a-roo""!"
+Brazil,Why did the orange stop rolling down the hill?,"It ran out of ""juice""!"
+Canada,Why did the maple syrup go to the party?,"It was invited to be ""sweet""!"
+Saudi Arabia,Why did the camel cross the road?,To get to the other oasis!
+Russia,What's a Russian's favorite breakfast?,"""Kremlin""-bowlies!"
+Kenya,What do you call a funny giraffe?,A 'giraffic' comedian!
+South Korea,Why did the cookie go to school?,To get a little 'cookie'-cation!
+Italy,What did one pasta say to another pasta?,"Pasta la vista, baby!"
+South Africa,What do you call a lion who can do magic tricks?,A 'roar'-ing magician!
+Sweden,What do you call a clever polar bear?,An 'ice-solated' thinker!
+Nigeria,Why did the chicken join the band?,Because it had the 'beak'!
+Egypt,Why did the mummy cat become a comedian?,To make everyone 'purr'- with laughter!
+Argentina,What do you call a dancing cow?,"""Salsa""!"
+Vietnam,What did one noodle say to the other noodle?,Don't pasta sauce!
+Thailand,What do you call a Thai soup that's having a party?,"""Tom Yum Yay""!"
+Pakistan,Why did the potato go to the party?,Because it was a 'smashing' good time!
+Spain,Why did the olive go to school?,"To get a little ""olive""-cation!"
+Ukraine,What did the potato say to the tomato?,I've got 'eyes' on you!
+Peru,Why did the cornstalk win an award?,Because it was 'corngratulated'!
+Malaysia,What do you call a funny durian?,A 'spiky'-larious comedian!
+Netherlands,Why did the windmill eat at the restaurant?,"For the ""spin""ach!"
+Philippines,Why did the mango refuse to tell jokes?,Because they were too 'sweet' for its taste!
+Iran,What do you call a clever cat in Iran?,A 'meow-sad' scholar!
+Algeria,Why did the antelope become a singer?,For its 'anteloping' vocals!
+Ethiopia,What do you call a coffee bean who can dance?,A 'hip'-poccino!
+United States,Why did the cookie cry?,Because its mother was a wafer too long!
+United Kingdom,Why did the banana go to the party?,Because it was a-peeling!
+Australia,Why did the kangaroo bring a map to the picnic?,In case it got lost in the 'outback'!
+Canada,Why was the math book sad?,Because it had too many 'problems'!
+India,What do you call a funny potato?,A 'chip'-munk!
+Japan,Why did the fish blush?,Because it saw the ocean's bottom!
+Brazil,Why did the monkey like the banana?,Because it had appeal!
+France,What's a frog's favorite candy?,"Lollipops, because they're 'hop'-sicles!"
+China,What did the panda bring to the barbecue?,Bam-BOO-tiful dishes!
+Germany,What do you call a bear with no teeth?,A 'gummy' bear!
+South Africa,Why did the zebra bring a ladder to the zoo?,To visit the 'high'-rarchy animals!
+Egypt,Why did the mummy cat become a comedian?,To make everyone 'purr'- with laughter!
+Russia,Why did the bear wear a hat?,To cover its 'bear'-ing head!
+Italy,What's a pizza's favorite party game?,Musical 'cheeses'!
+Spain,Why was the tomato blushing?,Because it saw the salad dressing!
+Mexico,What do you call a funny chili pepper?,A 'hot'-shot comedian!
+Israel,Why did the tomato turn red?,Because it saw the ketchup!
+Greece,What do you call a Greek dessert that tells jokes?,A 'baklava'-ity comedian!
+South Korea,Why did the sushi roll laugh?,Because it was tickled by seaweed!
+Nigeria,Why did the goat go to school?,To improve its 'baa'-sic knowledge!
+Kenya,What do you call a lion that loves to tell jokes?,A 'roar'-ing comedian!
+New Zealand,Why did the kiwi fruit join the talent show?,To show off its 'kiwi'-tricks!
+Iran,Why did the pistachio nut tell jokes?,To crack everyone up!
+Thailand,What did the rice say to the curry?,"'Don't Thai' me up, I'm just here for the flavor!"
+Vietnam,Why did the spring roll go to the party?,To 'roll' with the fun!
+Argentina,What do you call a dancing cow?,"""Salsa""!"
+Chile,Why did the avocado become a comedian?,Because it had great 'pit'-ch!
+Jamaica,What do you call a chill banana?,A laid-back 'Rasta'-nana!
+Nepal,Why did the momo go to school?,To get a little 'dumpling'-ucation!
+Pakistan,What do you call a goat that can play cricket?,A 'bat'--tery goat!
+South Africa,Why did the zebra bring a ladder to the zoo?,To visit the 'high'-rarchy animals!
+Turkey,Why did the chicken join the band?,Because it had the best 'cluck'-ussion skills!
+United States,Why did the tomato turn red?,Because it saw the salad dressing!
+United Kingdom,What do you call cheese that isn't yours?,"""Nacho"" cheese!"
+Japan,What do you call fake spaghetti?,"An ""impasta""!"
+Mexico,Why did the chili pepper go to the party?,"Because it was ""jalapeño"" business!"
+France,Why did the baguette go to school?,"To get a little ""bread""-ucation!"
+China,Why did the dumpling blush?,Because it saw the soy sauce!
+Greece,What do you call a frozen Greek dessert?,"""Yogur-ice""!"
+Brazil,Why did the orange stop rolling down the hill?,"It ran out of ""juice""!"
+Thailand,What do you call a Thai soup that's having a party?,"""Tom Yum Yay""!"
+Russia,What's a Russian's favorite breakfast?,"""Kremlin""-bowlies!"
+Spain,Why did the olive go to school?,"To get a little ""olive""-cation!"
+Germany,What do you call a sausage with no friends?,"""Braut-lonely""!"
+Australia,Why did the kangaroo eat all the vegetables?,"It was a ""veg-a-roo""!"
+Korea,What did the sushi say to the bee?,"""Wasabi""!"
+Turkey,What do you call a clever pepper?,"A ""smarty-pant-s""!"
+Netherlands,Why did the windmill eat at the restaurant?,"For the ""spin""ach!"
+Argentina,What do you call a dancing cow?,"""Salsa""!"
+Sweden,Why did the Swedish meatball start a band?,"It had a ""beet""!"
+Canada,Why did the maple syrup go to the party?,"It was invited to be ""sweet""!"
+Egypt,What do you call a pharaoh's favorite snack?,"""Mummy's"" cookies!"
+India,Why did the cow go to school?,To improve its 'moo'-sical skills!
+Kenya,What do you call a clever elephant?,An 'elepha-smarty'!
+Sweden,What did the fish say to the sea creature?,You're 'fin'-tastic!
+Nigeria,Why did the goat go to space?,To explore 'space-goats'!
+South Africa,What do you call a lion that can do magic tricks?,A 'roar'-ing magician!
+China,What's a panda's favorite dessert?,Bamboo 'shoo'-p!
+Australia,Why did the kangaroo bring a map to the picnic?,To find its way back to the 'jumping' spot!
+Brazil,What do you call a snake who works for the government?,A 'civil serpant'!
+France,Why did the croissant go to the gym?,To get a little 'pastry'-cise!
+United States,What do you call a dinosaur with an extensive vocabulary?,A 'thesaurus'!
+India,Why did the elephant bring a suitcase to the zoo?,Because it wanted to pack its 'trunk'!
+United Kingdom,What do you call a bee that's having a bad hair day?,A 'frizz-bee'!
+USA,Why did the tomato turn red?,Because it saw the salad dressing!
+India,What do you call a naughty vegetable?,A 'rude'-abaga!
+Australia,What do you call a koala that loves to dance?,A 'bear'-eographer!
+China,Why did the rice cake become a comedian?,It wanted to be 'rice'-fully funny!
+Russia,What do you call a clever fox?,A 'sly'-brarian!
+Brazil,Why did the banana go to school?,To learn some 'a-peel'-ing lessons!
+Canada,What do you call a funny polar bear?,An 'ice'-breaker!
+Italy,Why did the pizza maker go broke?,He couldn't make enough 'dough'!
+Japan,What do you call a sushi that can play the piano?,A 'maestro' roll!
+South Africa,Why did the lioness win the race?,She was the 'pride' of the savannah!
+France,What do you call a croissant that tells jokes?,A 'flaky' comedian!
+Spain,Why did the orange take a vacation?,It needed to 'juice' up and relax!
+Egypt,What did the mummy cat say to the kitten?,'Wrap' yourself in bandages!
+Kenya,Why did the elephant bring a suitcase to the zoo?,It wanted to pack its 'trunks'!
+Germany,What do you call a funny sausage?,'Wurst'-case scenario!
+Mexico,Why did the avocado refuse to play hide-and-seek?,It didn't want to be 'guac'-ing around!
+Sweden,What do you call a mischievous reindeer?,A 'deer'-elict!
+Nigeria,Why did the banana go to school?,To learn some 'fruit'-ful lessons!
+Greece,What did the olive say to the lemon?,'Olive' you a lot!
+Turkey,What do you call a funny bird?,A 'turkey'-naut!
+Argentina,Why did the tomato turn red?,Because it saw the salsa dancing!
+Israel,What do you call a potato that's full of energy?,An 'electri-spud'!
+Indonesia,Why did the monkey like the banana?,It found it a-peel-ing!
+New Zealand,What do you call a lamb that can do magic tricks?,A 'baa-rilliant' magician!
+Thailand,Why did the mango go to the party?,It was the 'tropi-coolest' fruit!
+Iran,What do you call a wise Persian cat?,A 'purr-sian' sage!
+Vietnam,Why did the noodle go to school?,To get 'ramen-tic' knowledge!
+South Korea,What do you call a clever kimchi?,A 'wise'-chi!
+United Kingdom,Why did the teapot always tell jokes?,It loved to 'pour'-t you up!
+Philippines,What do you call a funny mango?,A 'banat' (funny) go!
+Egypt,Why did the Sphinx become a comedian?,To keep everyone in 'stitches'!
+Canada,What did the maple syrup say to the pancake?,"'Stick' with me, and we'll be sweet together!"
+USA,Why did the chicken go to the beauty salon?,To get a 'coop'-do!
+India,What do you call a clever cow?,A 'moo'-tivational speaker!
+Australia,Why did the kangaroo's mom become a comedian?,To make everyone 'hop'-py!
+China,Why did the panda love to tell jokes?,To keep everyone 'bamboo'-zled!
+Russia,What do you call a witty fox?,A 'foxy' lady!
+Brazil,Why did the banana woman go to school?,To learn some 'a-peel'-ing lessons!
+Canada,What do you call a funny polar bear lady?,An 'ice'-breaking comedian!
+Italy,Why did the pizza girl go broke?,She couldn't make enough 'dough'!
+Japan,What do you call a sushi that can play the piano?,A 'maestra' roll!
+South Africa,Why did the lioness win the race?,She was the 'pride' of the savannah!
+France,What do you call a croissant that tells jokes?,A 'flaky' comedienne!
+Spain,Why did the orange lady take a vacation?,She needed to 'juice' up and relax!
+Egypt,What did the mummy cat mom say to the kitten?,"'Wrap' yourself in bandages, dear!"
+Kenya,Why did the elephant girl bring a suitcase to the zoo?,She wanted to pack her 'trunks'!
+Germany,What do you call a funny sausage lady?,"'Wurst'-case scenario, she's hilarious!"
+Mexico,Why did the avocado lady refuse to play hide-and-seek?,She didn't want to be 'guac'-ing around!
+Sweden,What do you call a mischievous reindeer lady?,A 'deer'-elict of humor!
+Nigeria,Why did the banana girl go to school?,To learn some 'fruit'-ful jokes!
+Greece,What did the olive lady say to the lemon?,'Olive' you a lot!
+Turkey,What do you call a funny bird lady?,A 'turkey'-naut of laughter!
+Argentina,Why did the tomato turn red?,"Because it saw the salsa dancing, senorita!"
+Israel,What do you call a potato lady that's full of energy?,An 'electri-spud'-ette!
+Indonesia,Why did the monkey girl like the banana?,She found it a-peel-ing!
+New Zealand,What do you call a lamb girl that can do magic tricks?,A 'baa-rilliant' enchantress!
+Thailand,Why did the mango lady go to the party?,She was the 'tropi-coolest' fruit there!
+Iran,What do you call a wise Persian cat lady?,A 'purr-sian' sage of comedy!
+Vietnam,Why did the noodle girl go to school?,To get 'ramen-tic' humor!
+South Korea,What do you call a clever kimchi lady?,A 'wise'-chi of wit!
+United Kingdom,Why did the teapot lady always tell jokes?,She loved to 'pour'-t humor!
+Philippines,What do you call a funny mango lady?,A 'banat'-ing (joking) go-getter!
+Egypt,Why did the Sphinx lady become a comedian?,"To keep everyone in 'stitches', madam!"
+Canada,What did the maple syrup lady say to the pancake?,"'Stick' with me, and we'll be sweet together!"
+Germany,Why did the sausage lady join the comedy club?,She was the 'wurst' to resist it!
+Spain,Why did the tomato lady blush?,Because she saw the hot chili pepper!
+Saudi Arabia,What do you call a clever camel lady?,A 'hump'-tastic comedian!
+USA,Why did the female cat win the singing competition?,She had the purr-fect voice!
+India,What do you call a clever female elephant?,A 'trunk'-ated thinker!
+Australia,Why did the female kangaroo start a bakery?,To make some 'hop'-solutely delicious treats!
+China,What do you call a funny female panda?,A 'pandaring' comedian!
+Russia,Why did the female bear become a teacher?,She wanted to 'bear' knowledge to her cubs!
+Brazil,What do you call a female orange?,A 'citrus'-y lady!
+Canada,Why did the female polar bear go to the spa?,To 'pam-purr' herself!
+Italy,What do you call a clever female pizza?,An 'intelli-genoa'!
+Japan,Why did the female sushi roll become an artist?,She had great 'roll'-ing skills!
+South Africa,What do you call a wise female lion?,A 'lioness'-tess!
+France,Why did the female croissant start a fashion blog?,She had impeccable 'flakiness'!
+Spain,Why did the female orange become a lifeguard?,She wanted to keep everyone 'juice'-t safe!
+Egypt,What did the female mummy cat say to the kitten?,"'Wrap' yourself in bandages, my little one!"
+Kenya,Why did the female elephant become a pilot?,To soar 'above' the savannah!
+Germany,What do you call a funny female sausage?,'Wurst'-essa!
+Mexico,Why did the female avocado refuse to play hide-and-seek?,She didn't want to be 'guac'-ing around all day!
+Sweden,What do you call a mischievous female reindeer?,A 'doe'-elict!
+Nigeria,Why did the female banana go to school?,To learn some 'fruit'-ful lessons!
+Greece,What did the female olive say to the lemon?,'Olive' you a lot!
+Turkey,What do you call a funny female bird?,'Hen'-ilarious!
+Argentina,Why did the female tomato turn red?,Because she saw the salsa dancing!
+Israel,What do you call a female potato that's full of energy?,An 'electri-spud'!
+Indonesia,Why did the female monkey like the banana?,She found it a-peel-ing!
+New Zealand,What do you call a female lamb that can do magic tricks?,A 'ewe'-dini!
+Thailand,Why did the female mango go to the party?,She was the 'tropi-coolest' fruit!
+Iran,What do you call a wise Persian cat?,A 'purr-sian' sage!
+Vietnam,Why did the female noodle go to school?,To get 'pho'-nomenal knowledge!
+South Korea,What do you call a clever female kimchi?,A 'wise'-chi!
+United Kingdom,Why did the female teapot always tell jokes?,She loved to 'pour'-t you up with laughter!
+Philippines,What do you call a funny female mango?,A 'banat' (funny) go!
+Egypt,Why did the female Sphinx become a comedian?,To keep everyone in 'stitches'!
+Canada,What did the female maple syrup say to the pancake?,"'Stick' with me, and we'll be sweet together!"
+Spain,Why did the female bullfrog start a singing career?,She had a 'ribbit'-ing voice!
+Russia,What do you call a female bear that loves to dance?,A 'bear'-eographer!
+Brazil,Why did the female watermelon become a musician?,She had the 'seeds' of talent!
+USA,Why did the chicken join the band?,Because she had the best 'cluck' rhythm!
+India,Why did the lioness become a detective?,She had a 'purr'-fect instinct for clues!
+Australia,What do you call a kangaroo that can do magic tricks?,A 'hop'-notist!
+China,What do you call a clever panda?,A 'bamboo'-zling genius!
+Russia,Why did the female bear win the race?,She was 'bear'-ly ahead of the competition!
+Brazil,What do you call a funny parrot?,A 'polly'-tician with great jokes!
+Canada,Why did the female moose become a comedian?,Her jokes were 'antler'-taining!
+Italy,What do you call a clever cat?,A 'feline'-tastic genius!
+Japan,Why did the female fox become a stand-up comedian?,Her humor was 'foxy' and sharp!
+South Africa,Why did the female zebra go to the art class?,To learn how to 'stripe' a masterpiece!
+France,What do you call a funny poodle?,A 'hair-larious' comedian!
+Spain,Why did the female orange go to school?,To learn some 'zest'-ful knowledge!
+Egypt,What did the female cat say to her kittens?,'Purr'-lease behave yourselves!
+Kenya,Why did the lioness tell jokes?,She wanted to keep her cubs 'roaring' with laughter!
+Germany,What do you call a clever female dog?,A 'lab'-rator of great jokes!
+Mexico,Why did the female avocado start a comedy show?,To 'guac'-up the audience with laughter!
+Sweden,What do you call a funny female reindeer?,A 'deer'-ious comedian!
+Nigeria,Why did the female banana go to school?,To learn some 'fruit'-ful lessons!
+Greece,What did the female olive say to her friends?,'Olive' you all!
+Turkey,What do you call a clever female bird?,A 'tweet'-er of great jokes!
+Argentina,Why did the female tomato turn red?,Because she saw the salsa dancing!
+Israel,What do you call a female potato that's full of energy?,An 'electri-spud'!
+Indonesia,Why did the female monkey like the banana?,She found it a-peel-ing!
+New Zealand,What do you call a female lamb that can do magic tricks?,A 'baa-rilliant' magician!
+Thailand,Why did the female mango go to the party?,She was the 'tropi-coolest' fruit!
+Iran,What do you call a wise female Persian cat?,A 'purr-sian' sage!
+Vietnam,Why did the female noodle go to school?,To get 'ramen-tic' knowledge!
+South Korea,What do you call a clever female kimchi?,A 'wise'-chi!
+United Kingdom,Why did the female teapot always tell jokes?,She loved to 'pour'-t you up!
+Philippines,What do you call a funny female mango?,A 'banat' (funny) go!
+Egypt,Why did the female Sphinx become a comedian?,To keep everyone in 'stitches'!
+Canada,What did the female maple syrup say to the pancake?,"'Stick' with me, and we'll be sweet together!"
+UAE,Why did the female falcon go to the comedy club?,To 'soar' with laughter!
+Netherlands,What do you call a funny female windmill?,A 'wind'-y comedian!
+Malaysia,Why did the female durian start a podcast?,To 'spike' up interesting conversations!
+USA,Why did the lion always lose at hide-and-seek?,Because he was always a 'roar'-ing giveaway!
+India,Why did the donkey go to school?,To improve its 'bray'-ve vocabulary!
+Australia,Why did the lioness join the gymnastics team?,She wanted to show off her 'roar'-tastic flips!
+China,What do you call a donkey who loves to dance?,A 'burro'-nic dancer!
+Russia,Why did the lion start a comedy club?,To be the 'mane' attraction!
+Brazil,What did the donkey say when it entered the talent show?,'I'm a 'mule'-ti-talented performer!'
+Canada,Why was the lion invited to all the parties?,Because he was the 'pride' of the social scene!
+Italy,What do you call a funny lion?,A 'purr'-former with a wild sense of humor!
+Japan,Why did the donkey get a promotion at work?,Because of its 'ass'-tonishing work ethic!
+South Africa,What do you call a lion who loves to tell jokes?,A 'jester'-ious lion with a 'roar'-some sense of humor!
+France,Why did the donkey always tell jokes?,Because it wanted to 'bray'-ing happiness to everyone!
+Spain,What do you call a lion with a great singing voice?,A 'vocal'-roarist!
+Egypt,Why did the lioness become a stand-up comedian?,Because she could deliver 'purr'-fect punchlines!
+Kenya,What do you call a donkey with a green thumb?,A 'burro'-cultivator!
+Germany,Why did the lion cross the road?,To prove he's not a 'scaredy'-cat!
+Mexico,What did the donkey say when it saw its reflection?,"'Hey there, 'ass'-tonishing beauty!'"
+Sweden,Why did the lion start a joke club?,Because he wanted to 'roar'-aise spirits!
+Nigeria,What do you call a donkey that can play the guitar?,An 'ass'-tronomical musician!
+Greece,Why did the lion always get invited to parties?,Because he could 'paw'-ty all night long!
+Turkey,What did the donkey say to the lion at the comedy show?,'Your 'roar'-some jokes crack me up!'
+Argentina,Why did the lioness go to the comedy club?,To 'purr'-form her best stand-up routine!
+Israel,What do you call a donkey that tells jokes in Hebrew?,A 'hee-ha'-larious comedian!
+Indonesia,Why did the lioness become a singer?,Because she had a 'roar'-ing voice!
+New Zealand,What did the donkey say to the lion when they met?,'You've got a 'roar'-ing presence!'
+Thailand,Why did the lioness always tell riddles?,Because she loved to 'purr'-plex her friends!
+Iran,What do you call a lion who loves to tell jokes in Farsi?,A 'roar'-arious comedian!
+Vietnam,Why did the donkey become a DJ?,Because it could 'bray'-ing the beats!
+South Korea,What did the lion say to the donkey during the comedy show?,'You're a 'bray'-ve and hilarious performer!'
+United Kingdom,Why did the lion become a weather reporter?,Because he could give a 'roar'-casting forecast!
+USA,Why did the lion get lost?,"Because jungle is always changing, and it's not a 'maul'!"
+India,What did the lion say to the donkey?,'You're 'bray'-ve enough to be my friend!'
+Australia,Why did the lioness invite the donkey for tea?,She heard he was great at 'neigh'-gociations!
+China,What did the donkey say when the lion asked for directions?,'I can show you the 'weigh' to go!'
+Russia,Why did the lioness and the donkey go on a road trip?,To find the 'roaring' highways!
+Brazil,What do you get when a lion and a donkey collaborate?,A 'roaring' donkey!
+Canada,Why did the lion and the donkey start a band?,They wanted to make some 'wild' music together!
+Italy,What's a lion's favorite instrument to play?,A 'roar'-monica!
+Japan,What do you call a donkey that can mimic a lion's roar?,A 'roaring' ass-tronaut!
+South Africa,Why did the lion challenge the donkey to a race?,To see who's the 'fastest' in the savannah!
+France,Why did the donkey join the lion's pride?,Because he was 'bray'-ve enough to be a part of it!
+Spain,What do you call a lion and a donkey playing hide-and-seek?,'Roar' and seek!
+Egypt,Why did the donkey tell jokes to the lion?,To keep the lion 'roaring' with laughter!
+Kenya,What did the lion say when the donkey asked for a ride?,"'Sure, hop on my 'roar'-ing back!'"
+Germany,What's a donkey's favorite lion movie?,'The Lion 'Bray' King'!
+Mexico,Why did the lion and donkey start a circus act?,To show off their 'roaring' performance!
+Sweden,Why did the donkey cheer for the lion at the talent show?,Because the lion's act was 'roar'-some!
+Nigeria,What did the lion say to the donkey's jokes?,'You're 'bray'-liant!'
+Greece,What do you call a brave donkey who acts like a lion?,A 'daring' donkey!
+Turkey,Why did the lion and the donkey form a comedy duo?,To bring the 'roars' of laughter!
+Argentina,What did the donkey think of the lion's jokes?,'They're 'roar'-some!'
+Israel,Why did the donkey offer to be the lion's sidekick?,Because he wanted to be a 'roar'-ing success together!
+Indonesia,What's a lion's favorite joke about donkeys?,'They're always 'bray'-ve and funny!'
+New Zealand,Why did the donkey imitate the lion's 'roar'?,He wanted to feel 'wild' and adventurous!
+Thailand,Why did the lion and the donkey start a storytelling club?,To share their 'roar'-some tales!
+Iran,What do you call a lion and a donkey teaming up for a play?,A 'roaring' performance!
+Vietnam,Why did the donkey ask the lion for advice?,'You're the 'roar'-model I look up to!'
+South Korea,What do you get when a lion laughs at a donkey's joke?,A 'roar'-ing good time!
+United Kingdom,Why did the lion and donkey start a stand-up comedy show?,To 'roar'-aise the audience's spirits!
+Philippines,What did the lion say to the donkey after the performance?,'You were 'bray'-ve and amazing!'
+Egypt,Why did the donkey and the lion join forces in the savannah?,To create a 'roar'-ing impact!
+Canada,What did the lion and donkey say when they saw a great view?,'It's 'roar'-some!'
+USA,Why did the lion get lost?,"Because jungle is always changing, and it's not a 'maul'!"
+India,What did the lion say to the donkey?,'You're 'bray'-ve enough to be my friend!'
+Australia,Why did the lioness invite the donkey for tea?,She heard he was great at 'neigh'-gociations!
+China,What did the donkey say when the lion asked for directions?,'I can show you the 'weigh' to go!'
+Russia,Why did the lioness and the donkey go on a road trip?,To find the 'roaring' highways!
+Brazil,What do you get when a lion and a donkey collaborate?,A 'roaring' donkey!
+Canada,Why did the lion and the donkey start a band?,They wanted to make some 'wild' music together!
+Italy,What's a lion's favorite instrument to play?,A 'roar'-monica!
+Japan,What do you call a donkey that can mimic a lion's roar?,A 'roaring' ass-tronaut!
+South Africa,Why did the lion challenge the donkey to a race?,To see who's the 'fastest' in the savannah!
+France,Why did the donkey join the lion's pride?,Because he was 'bray'-ve enough to be a part of it!
+Spain,What do you call a lion and a donkey playing hide-and-seek?,'Roar' and seek!
+Egypt,Why did the donkey tell jokes to the lion?,To keep the lion 'roaring' with laughter!
+Kenya,What did the lion say when the donkey asked for a ride?,"'Sure, hop on my 'roar'-ing back!'"
+Germany,What's a donkey's favorite lion movie?,'The Lion 'Bray' King'!
+Mexico,Why did the lion and donkey start a circus act?,To show off their 'roaring' performance!
+Sweden,Why did the donkey cheer for the lion at the talent show?,Because the lion's act was 'roar'-some!
+Nigeria,What did the lion say to the donkey's jokes?,'You're 'bray'-liant!'
+Greece,What do you call a brave donkey who acts like a lion?,A 'daring' donkey!
+Turkey,Why did the lion and the donkey form a comedy duo?,To bring the 'roars' of laughter!
+Argentina,What did the donkey think of the lion's jokes?,'They're 'roar'-some!'
+Israel,Why did the donkey offer to be the lion's sidekick?,Because he wanted to be a 'roar'-ing success together!
+Indonesia,What's a lion's favorite joke about donkeys?,'They're always 'bray'-ve and funny!'
+New Zealand,Why did the donkey imitate the lion's 'roar'?,He wanted to feel 'wild' and adventurous!
+Thailand,Why did the lion and the donkey start a storytelling club?,To share their 'roar'-some tales!
+Iran,What do you call a lion and a donkey teaming up for a play?,A 'roaring' performance!
+Vietnam,Why did the donkey ask the lion for advice?,'You're the 'roar'-model I look up to!'
+South Korea,What do you get when a lion laughs at a donkey's joke?,A 'roar'-ing good time!
+United Kingdom,Why did the lion and donkey start a stand-up comedy show?,To 'roar'-aise the audience's spirits!
+Philippines,What did the lion say to the donkey after the performance?,'You were 'bray'-ve and amazing!'
+Egypt,Why did the donkey and the lion join forces in the savannah?,To create a 'roar'-ing impact!
+Canada,What did the lion and donkey say when they saw a great view?,'It's 'roar'-some!'
+USA,Why did the bird join the talent show?,It wanted to show off its 'tweet'-acular singing!
+India,What do you call a cool cat?,A 'meow'-velous feline!
+Australia,Why did the dog take a nap?,Because it was 'paws'-itively tired!
+China,What did the female bird say to the male bird?,'You 'wing' my heart!'
+Russia,Why did the cat join the comedy club?,To deliver some 'purr'-fect jokes!
+Brazil,What do you call a dog magician?,A 'labra-cadabra'!
+Canada,Why did the female bird go to art school?,To learn how to 'draw' attention!
+Italy,What's a dog's favorite dessert?,'Pup'-cakes!
+Japan,Why did the bird break up with its partner?,They were 'beak'-oming incompatible!
+South Africa,Why did the cat become a detective?,It had a 'purr'-fect instinct for solving mysteries!
+France,What do you call a dog who loves to read?,A 'book'-er spaniel!
+Spain,Why did the female dog start a blog?,To share her 'bark'-tastic adventures!
+Egypt,What did the female cat say to her kittens?,'Purr'-lease behave yourselves!
+Kenya,Why did the bird invite the cat to its nest?,Because they were 'feather'-ed friends!
+Germany,What's a dog's favorite music?,'Bark'-n-roll!
+Mexico,Why did the bee get a promotion?,Because she was the 'buzz'-iest worker!
+Sweden,Why did the female bird start a comedy club?,To create a 'tweet'-astic atmosphere!
+Nigeria,What did the cat say when the bird asked for a ride?,"'Sure, hop on my 'purr'-sonal taxi!'"
+Greece,What do you call a brave cat who acts like a lion?,A 'courageous' feline!
+Turkey,Why did the female bird start a social media account?,To reach 'tweet'-er stardom!
+Argentina,What did the bee say after a hard day's work?,'I'm bee-sy but happy!'
+Israel,Why did the dog invite the cat for a picnic?,Because they were 'paw'-fect companions!
+Indonesia,Why did the bird start a garden?,To enjoy 'tulip'-time beauty!
+New Zealand,Why did the cat become a detective?,To 'purr'-solve mysteries!
+Thailand,What do you call a female bird with a great sense of humor?,A 'wing'-ding comedian!
+Iran,Why did the female dog start a book club?,To 'unleash' her love for reading!
+Vietnam,What did the bird say when the cat asked if they could be friends?,'Of 'feather' course!'
+South Korea,Why did the bee become a flight attendant?,To 'bee'-come a globetrotter!
+United Kingdom,What do you call a female dog with a sweet tooth?,A 'bark'-er who loves treats!
+Philippines,What did the cat say to the bird who was scared of heights?,"'Don't 'wing' about it, I'm here for you!'"
+USA,Why did the bird join the comedy club?,It wanted to tweet some 'fun'-ny jokes!
+India,What do you call a talented singing bird?,A 'tweet'-o nightingale!
+Australia,Why did the cat start taking singing lessons?,To hit the 'meow'-t high notes!
+China,What do you call a dog that can do magic tricks?,A 'pup'-peteer!
+Russia,Why did the female bear and the bee become friends?,They both loved 'honey' jokes!
+Brazil,What do you call a bird that can do stand-up comedy?,A 'tweet'-er of jokes!
+Canada,Why did the dog go to school?,To fetch some 'new tricks'!
+Italy,What do you call a cat that can dance?,A 'purr'-formancer!
+Japan,Why did the bird start a YouTube channel?,To 'tweet'-cast its adventures!
+South Africa,What do you call a female dog that loves to dance?,A 'woofer'-fly dancer!
+France,Why did the cat become a stand-up comedian?,It had the 'paw-some' jokes!
+Spain,What do you call a clever bird?,A 'tweet'-smart!
+Egypt,Why did the female bee go to school?,To learn some 'bee'-autiful dance moves!
+Kenya,What do you call a dog that can play soccer?,A 'goal'-den retriever!
+Germany,What's a bird's favorite instrument?,A 'tweet'-er!
+Mexico,Why did the female cat go to the comedy show?,To hear some 'purr'-fect jokes!
+Sweden,What do you call a dog that can tell jokes?,A 'paw'-dorable comedian!
+Nigeria,Why did the bird get a cell phone?,To send 'tweet'-er messages!
+Greece,What do you call a female dog that loves to dance?,A 'woof'-le!
+Turkey,Why did the cat go to the party?,To have a 'purr'-fect time!
+Argentina,What do you call a bird that's good at math?,A 'tweet'-er of numbers!
+Israel,Why did the female bee start a dance club?,To 'buzz' with excitement!
+Indonesia,What do you call a dog that loves to sing?,A 'howl'-some vocalist!
+New Zealand,Why did the bird join the talent show?,To show off its 'tweet'-riffic skills!
+Thailand,What do you call a clever cat?,A 'purr'-lific thinker!
+Iran,Why did the female bee become a comedian?,To deliver 'buzz'-worthy jokes!
+Vietnam,What do you call a dog that can play the guitar?,A 'rock'-star retriever!
+South Korea,Why did the bird and the cat start a band?,To create 'paw-some' music!
+United Kingdom,What's a bee's favorite music genre?,'Bee'-bop!
+Philippines,Why did the female cat and the dog start a comedy show?,To make everyone 'purr'-laugh!
+Egypt,What did the female bee say to the flower?,'You're 'bee'-autiful!'

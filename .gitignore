@@ -1,0 +1,127 @@
+.lh
+
+# Build Folders
+bin/
+obj/
+out/
+
+# User-Specific Files
+*.user
+*.userosscache
+*.sln.docstates
+
+# ASP.NET temporary files
+*.vs
+.vscode/
+.vs/
+
+# Rider settings
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# SQL Server
+*.mdf
+*.ldf
+
+# Exclude all log files
+*.log
+
+# IIS
+_IISExpress/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# MacOS
+.DS_Store
+
+# Linux
+*.swp
+*.sw~
+
+# Application Insights
+*.iobj
+*.ipdb
+
+# Lock files
+project.lock.json
+project.fragment.lock.json
+global.json.lock
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# By default, we include packages because NuGet restore works offline
+# Uncomment if using the NuGet cache instead
+# packages/
+
+# Uncomment if using npm/yarn
+# /node_modules/
+
+# Environment-specific files
+.env
+.env.*
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Coverage Reports
+coverage/
+*.coverage
+*.coveragexml
+*.log
+
+# Logs
+*.log
+
+# Azure deployment
+.scm/
+
+# Secrets
+secrets.json
+appsettings.json
+appsettings.Development.json
+appsettings.*.json
+
+# Others
+*.cache
+*.pdb
+*.pidb
+*.localhistory/
+*.bak
+*.bak2
+*.tmp
+*.temp
+*.tmp/
+
+# Images and Videos
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tiff
+*.ico
+*.gif
+*.mp4
+*.mpg
+*.mpeg
+*.mov
+*.avi
+
+# Text files
+*.txt
+*.pdf

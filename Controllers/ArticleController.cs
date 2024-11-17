@@ -16,7 +16,7 @@ public class ArticleController : ControllerBase
         _context = context;
     }
 
-    // GET: api/country/{countryName}
+    // GET: api/article/country/{countryName}
     [HttpGet("country/{countryName}")]
     public async Task<ActionResult<IEnumerable<Article>>> GetArticlesByCountry(string countryName)
     {
@@ -35,18 +35,6 @@ public class ArticleController : ControllerBase
     public async Task<ActionResult<IEnumerable<Country>>> GetCountries()
     {
         return await _context.Countries.ToListAsync();
-    }
-
-    // GET: api/article/{id}
-    [HttpGet("{id}")]
-    public async Task<ActionResult<Article>> GetArticleById(int id)
-    {
-        var article = await _context.Articles.FindAsync(id);
-
-        if (article == null)
-            return NotFound();
-
-        return article;
     }
 
     // GET: api/article/{id}/image

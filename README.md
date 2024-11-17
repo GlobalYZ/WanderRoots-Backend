@@ -64,3 +64,19 @@ body: {
 }
 
 ![alt text](image-7.png)
+
+##### delete review
+
+route: review/{id}
+method: DELETE
+returns: 204 no content
+
+![alt text](image-7.png)
+
+##### Get article image by id
+
+route: article/{id}/image
+method: GET
+returns: article image
+
+![alt text](image-8.png)

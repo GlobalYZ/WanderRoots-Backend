@@ -48,4 +48,21 @@ public class ArticleController : ControllerBase
 
         return article;
     }
+
+    // GET: api/article/{id}/image
+    [HttpGet("{id}/image")]
+    public async Task<ActionResult<ArticleImage>> GetArticleImageByArticleId(int id)
+    {
+        var articleImage = await _context.ArticleImages.FirstOrDefaultAsync(ai => ai.ArticleId == id);
+
+        if (articleImage == null)
+        {
+            var defaultImage = await _context.ArticleImages.FirstOrDefaultAsync(ai => ai.ArticleId == -1);
+            if (defaultImage == null)
+                return NotFound();
+            return defaultImage;
+        }
+
+        return articleImage;
+    }
 }

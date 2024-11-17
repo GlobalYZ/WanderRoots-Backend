@@ -32,8 +32,16 @@ using (var scope = app.Services.CreateScope())
 
         var csvImportService = services.GetRequiredService<CsvImportService>();
 
-        await csvImportService.ImportJokesFromCsv("dataset/jokes.csv");
+        // load jokes from csv
+        if (!context.Articles.Any())
+        {
+            await csvImportService.ImportJokesFromCsv("dataset/jokes.csv");
+            await context.SaveChangesAsync();
+        }
 
+        // load seed data
+        ModelBuilderExtensions.Seed(context);
+        await context.SaveChangesAsync();
     }
     catch (Exception ex)
     {

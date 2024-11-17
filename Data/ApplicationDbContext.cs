@@ -16,7 +16,7 @@ public class ApplicationDbContext : DbContext
     protected override void OnModelCreating(ModelBuilder builder)
     {
         base.OnModelCreating(builder);
-        ModelBuilderExtensions.Seed(builder);
+        // ModelBuilderExtensions.Seed(builder);
     }
 }
 

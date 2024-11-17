@@ -7,5 +7,5 @@ public class ArticleImage
 
     required public string base64 { get; set; }
 
-    public string contryName { get; set; } = "default";
+    public int ArticleId { get; set; } = -1;
 }

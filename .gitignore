@@ -10,6 +10,9 @@ out/
 *.userosscache
 *.sln.docstates
 
+# add db directory
+db/
+
 # ASP.NET temporary files
 *.vs
 .vscode/
@@ -93,9 +96,6 @@ coverage/
 
 # Secrets
 secrets.json
-appsettings.json
-appsettings.Development.json
-appsettings.*.json
 
 # Others
 *.cache

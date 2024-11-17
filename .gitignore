@@ -10,8 +10,6 @@ out/
 *.userosscache
 *.sln.docstates
 
-# add db directory
-db/
 
 # ASP.NET temporary files
 *.vs

@@ -16,10 +16,11 @@ builder.Services.AddScoped<CsvImportService>();
 
 var app = builder.Build();
 
-// create db directory if not exists
-if (!Directory.Exists("db"))
+// change db path
+var dbPath = app.Environment.ContentRootPath + "/db";
+if (!Directory.Exists(dbPath))
 {
-    Directory.CreateDirectory("db");
+    Directory.CreateDirectory(dbPath);
 }
 
 using (var scope = app.Services.CreateScope())
@@ -32,21 +33,27 @@ using (var scope = app.Services.CreateScope())
 
         var csvImportService = services.GetRequiredService<CsvImportService>();
 
-        // load jokes from csv
-        if (!context.Articles.Any())
+        // change csv path
+        var csvPath = Path.Combine(app.Environment.ContentRootPath, "dataset", "jokes.csv");
+
+        // check if data exists
+        if (!context.Articles.Any() && File.Exists(csvPath))
         {
-            await csvImportService.ImportJokesFromCsv("dataset/jokes.csv");
+            await csvImportService.ImportJokesFromCsv(csvPath);
             await context.SaveChangesAsync();
         }
 
-        // load seed data
-        ModelBuilderExtensions.Seed(context);
-        await context.SaveChangesAsync();
+        // add seed data only if db is empty
+        if (!context.ArticleImages.Any())
+        {
+            ModelBuilderExtensions.Seed(context);
+            await context.SaveChangesAsync();
+        }
     }
     catch (Exception ex)
     {
         var logger = services.GetRequiredService<ILogger<Program>>();
-        logger.LogError(ex, "error init db");
+        logger.LogError(ex, "Error initializing database");
     }
 }
 

@@ -25,13 +25,16 @@ jobs:
         run: dotnet build --configuration Release
 
       - name: dotnet publish
-        run: dotnet publish -c Release -o "./myapp"
+        run: |
+          dotnet publish -c Release -o "./publish"
+          mkdir -p "./publish/dataset"
+          cp -r dataset/* "./publish/dataset/"
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
         with:
           name: .net-app
-          path: ./myapp
+          path: ./publish
 
   deploy:
     runs-on: windows-latest

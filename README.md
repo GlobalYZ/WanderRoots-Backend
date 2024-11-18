@@ -8,7 +8,7 @@ route: article/country/{countryName}
 method: GET
 returns: list of articles
 
-![alt text](image-9.png)
+![alt text](imgs/image-9.png)
 
 ##### Get all countries
 
@@ -33,7 +33,7 @@ route: review/article/{id}
 method: GET
 returns: list of reviews
 
-![alt text](imgs/image-3.png)
+![alt text](imgs/image-11.png)
 
 ##### review by article id and uuid
 

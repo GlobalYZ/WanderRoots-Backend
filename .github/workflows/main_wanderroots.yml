@@ -27,14 +27,15 @@ jobs:
       - name: dotnet publish
         run: |
           dotnet publish -c Release -o "./publish"
-          mkdir -p "./publish/dataset"
-          cp -r dataset/* "./publish/dataset/"
+          if not exist ".\publish\dataset" mkdir ".\publish\dataset"
+          xcopy /E /I /Y "dataset\*" ".\publish\dataset\"
+        shell: cmd
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
         with:
           name: .net-app
-          path: ./publish
+          path: ./publish/**
 
   deploy:
     runs-on: windows-latest

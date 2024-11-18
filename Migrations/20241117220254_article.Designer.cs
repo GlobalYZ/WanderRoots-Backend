@@ -10,8 +10,8 @@ using WanderRoots_backend.Data;
 namespace WanderRoots_backend.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20241117220254_article")]
-    partial class article
+    [Migration("20241117220254_Article")]
+    partial class Article
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

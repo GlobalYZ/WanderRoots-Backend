@@ -7,7 +7,7 @@
 namespace WanderRoots_backend.Migrations
 {
     /// <inheritdoc />
-    public partial class article : Migration
+    public partial class Article : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

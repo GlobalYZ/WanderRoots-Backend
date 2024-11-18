@@ -8,19 +8,22 @@ builder.Services.AddOpenApi();
 builder.Services.AddControllers();
 
 //add sqlite db
+var dbPath = Path.Combine(builder.Environment.ContentRootPath, "db", "WanderRoots.db");
+var connectionString = $"Data Source={dbPath}";
+
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlite(builder.Configuration.GetConnectionString("Sqlite")));
+    options.UseSqlite(connectionString));
 
 // add csv import service
 builder.Services.AddScoped<CsvImportService>();
 
 var app = builder.Build();
 
-// change db path
-var dbPath = app.Environment.ContentRootPath + "/db";
-if (!Directory.Exists(dbPath))
+// ensure db directory exists
+var dbDirectory = Path.GetDirectoryName(dbPath);
+if (!string.IsNullOrEmpty(dbDirectory))
 {
-    Directory.CreateDirectory(dbPath);
+    Directory.CreateDirectory(dbDirectory);
 }
 
 using (var scope = app.Services.CreateScope())

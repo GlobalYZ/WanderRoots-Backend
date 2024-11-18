@@ -29,20 +29,21 @@ public class ReviewController : ControllerBase
     // GET: api/review/article/{articleId}/{reviewId}
 
     //make this a post method to get reviews by uuid and article id
-    [HttpPost("article/{articleId}/user")]
-    public async Task<ActionResult<Review>> GetReviewByUuidAndArticle(
-        int articleId,
+    [HttpPost("article/user")]
+    public async Task<ActionResult<IEnumerable<Review>>> GetReviewByUuidAndArticle(
         [FromBody] ReviewQueryDto query)
     {
-        //return reviews not one review
+        if (query == null)
+            return BadRequest("Query data is null");
+
         var reviews = await _context.Reviews
             .Where(r =>
-                r.ArticleId == articleId &&
+                r.ArticleId == query.ArticleId &&
                 r.Uuid == query.Uuid)
             .ToListAsync();
 
-        if (reviews.Count == 0)
-            return NotFound($"No review found for article {articleId} and user {query.Uuid}");
+        if (!reviews.Any())
+            return NotFound($"No reviews found for article {query.ArticleId} and user {query.Uuid}");
 
         return Ok(reviews);
     }

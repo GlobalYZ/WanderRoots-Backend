@@ -33,7 +33,7 @@ route: review/article/{id}
 method: GET
 returns: list of reviews
 
-
+![alt text](image-3.png)
 
 ##### review by article id and uuid
 
@@ -41,6 +41,7 @@ route: review/article/{articleId}
 method: POST
 returns: list of reviews
 
+![alt text](image-6.png)
 
 
 ##### Create review
@@ -49,7 +50,7 @@ route: review
 method: POST
 returns: review
 
-![alt text](image-2.png)
+![alt text](image-4.png)
 
 
 ##### Update review
@@ -63,6 +64,8 @@ body: {
     "articleId": 1,
     "uuid": "123e4567-e89b-12d3-a456-426614174000"
 }
+
+![alt text](image-5.png)
 
 
 

@@ -106,19 +106,6 @@ secrets.json
 *.temp
 *.tmp/
 
-# Images and Videos
-*.png
-*.jpg
-*.jpeg
-*.bmp
-*.tiff
-*.ico
-*.gif
-*.mp4
-*.mpg
-*.mpeg
-*.mov
-*.avi
 
 # Text files
 *.txt

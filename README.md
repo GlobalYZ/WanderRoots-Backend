@@ -21,11 +21,11 @@ returns: list of countries
 
 ##### Get article by id
 
-route: article/{id}
+route: article/detail/{id}
 method: GET
 returns: article
 
-![alt text](imgs/image1.png)
+![alt text](image.png)
 
 ##### Get reviews by article id
 
@@ -49,6 +49,7 @@ route: review
 method: POST
 returns: review
 
+![alt text](image-2.png)
 
 
 ##### Update review
@@ -78,3 +79,5 @@ returns: 204 no content
 route: article/{id}/image
 method: GET
 returns: article image
+
+![alt text](image-1.png)

@@ -59,12 +59,22 @@ public class ReviewController : ControllerBase
 
     // PUT: api/review/{id}
     [HttpPut("{id}")]
-    public async Task<IActionResult> EditReview(int id, Review review)
+    public async Task<IActionResult> EditReview(int id, [FromBody] Review review)
     {
-        if (id != review.Id)
-            return BadRequest();
+        if (review == null)
+            return BadRequest("Review data is null");
 
-        _context.Entry(review).State = EntityState.Modified;
+        if (id != review.Id)
+            return BadRequest($"Route id ({id}) does not match review id ({review.Id})");
+
+        var existingReview = await _context.Reviews.FindAsync(id);
+        if (existingReview == null)
+            return NotFound($"Review with id {id} not found");
+
+        // 更新存在的评论的属性
+        existingReview.Rate = review.Rate;
+        existingReview.Content = review.Content;
+        existingReview.Uuid = review.Uuid;
 
         try
         {
@@ -77,7 +87,7 @@ public class ReviewController : ControllerBase
             throw;
         }
 
-        return NoContent();
+        return Ok(existingReview);
     }
 
     // DELETE: api/review/{id}

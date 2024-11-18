@@ -16,6 +16,7 @@ route: article/countries
 method: GET
 returns: list of countries
 
+![alt text](imgs/image.png)
 
 
 ##### Get article by id
@@ -24,7 +25,7 @@ route: article/{id}
 method: GET
 returns: article
 
-
+![alt text](imgs/image1.png)
 
 ##### Get reviews by article id
 

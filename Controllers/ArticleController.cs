@@ -16,6 +16,16 @@ public class ArticleController : ControllerBase
         _context = context;
     }
 
+    // GET: api/article/detail/{id}
+    [HttpGet("detail/{id}")]
+    public async Task<ActionResult<Article>> GetArticleDetail(int id)
+    {
+        var article = await _context.Articles.FindAsync(id);
+        if (article == null)
+            return NotFound();
+        return article;
+    }
+
     // GET: api/article/country/{countryName}
     [HttpGet("country/{countryName}")]
     public async Task<ActionResult<IEnumerable<Article>>> GetArticlesByCountry(string countryName)

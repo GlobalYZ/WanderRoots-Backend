@@ -57,5 +57,9 @@ public static class ModelBuilderExtensions
                 }
             );
         }
+
+        //loop all context in each articles
+        //make sure only article with unique content exist
+
     }
 }
